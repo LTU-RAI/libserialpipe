@@ -1,3 +1,4 @@
+Archived
 # A C++ library for serial ports that takes care of concurrency
 
 ## Contributors
